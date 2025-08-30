@@ -1,0 +1,9 @@
+pandas
+numpy 
+lightgbm
+rdkit
+itertools
+streamlit
+ast
+joblib
+sklearn
